@@ -43,3 +43,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # JSON Web Tokens
 gem 'jwt'
+
+# serialize json and customize response
+gem 'active_model_serializers', '~> 0.10.0'
